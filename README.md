@@ -17,7 +17,7 @@
 
 ```sh
 git clone https://github.com/alexeyavdeenok/summer.git
-cd app
+cd summer
 ```
 
 ### Шаг 2: Создайте и активируйте виртуальное окружение
