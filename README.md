@@ -16,7 +16,7 @@
 Клонируйте репозиторий на свой пк:
 
 ```sh
-git clone 
+git clone https://github.com/alexeyavdeenok/summer.git
 cd app
 ```
 
